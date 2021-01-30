@@ -1,4 +1,4 @@
 # hello-world
 rrrrrrrr
 
-Hello word! Goodbye, libreoffice writer
+Hello word! Goodbye libreoffice writer
